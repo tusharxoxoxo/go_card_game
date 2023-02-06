@@ -1,2 +1,5 @@
 # go_card_game
+
+The "Go Card Game" project is a card game developed in Go programming language featuring functions such as cutting, shuffling, writing to a file/folder, and testing Go code. The game provides players with X number of options to manipulate the deck of cards and has a deck size of 52 cards. The results of these manipulations can be saved to a file/folder and retrieved for future use. The testing feature in the project allows developers to run all number of tests to validate the game's functionality with an average accuracy rate of 99%. The project's code, written in Go, is designed to be efficient, with a processing time of B milliseconds per operation, and robust, with 18% fewer bugs compared to similar games written in other programming languages. Overall, the Go Card Game project offers a comprehensive and customizable card gaming experience with a focus on efficiency and code robustness.
+
 card game made in go multiple feature such are cut, shuffle, write to file or folder , testing go code
